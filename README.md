@@ -15,6 +15,8 @@ The analysis code was written by Wilson Castro Silupu (Universidad Nacional de F
 | `results/*/metrics.xlsx` | metrics of each run, per hold-out and summary |
 | `results/*/Figuras/` | figures written by the code |
 | `results/table_paper.py`, `table_paper.csv` | Table 2 of the paper |
+| `figures/Figuras - Articulo.vsdx` | Visio drawings of the figures (UNF) |
+| `figures/fig_workflow_v10.svg`, `fig_models_v10.svg` | Figures 1 and 2 of the paper, editable in Visio |
 
 ## Settings used for the paper
 
