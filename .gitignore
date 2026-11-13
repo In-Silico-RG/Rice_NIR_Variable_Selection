@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+code/Figuras/
+code/Resultados/
+code/CAFS/
+code/metrics.xlsx
