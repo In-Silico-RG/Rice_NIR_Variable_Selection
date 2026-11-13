@@ -16,6 +16,7 @@ Peru). `original/` holds it exactly as received; `code/` is the version run for 
 | `code/data/nBandas.mat` | wavelength of each band; bands 47–309 (999–1649 nm) are analyzed |
 | `results/*/metrics.xlsx` | per-hold-out and summary metrics of each run |
 | `results/table_paper.py`, `table_paper.csv` | Table 2 of the paper, built from the `_Global` sheets |
+| `results/*/Figuras/` | figures written by the code (confusion matrices, selected bands, PCA, mean profiles) |
 
 ## Changes from `original/` to `code/`
 
